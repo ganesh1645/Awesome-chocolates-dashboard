@@ -139,9 +139,3 @@ Contributions, feedback, and suggestions are welcome!
 Feel free to open a Pull Request or Issue.
 
 
----
-
-
-✅ Add badges (Power BI • GitHub • License)
-
-Just tell me!
